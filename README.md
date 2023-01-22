@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on I am developing projects as a Full Stack Java Developer.
+- 🔭 I’m currently working on developing projects as a Full Stack Java Developer.
 - 🌱 I’m currently learning Python
-- 💬 Ask me about Here
+- 💬 Ask me about everything in here
 - 📫 How to reach me: mseyip03@gmail.com
 - ⚡ Fun fact: ...
 
