@@ -4,8 +4,8 @@
 <table border="1" width="70%" cellpadding="10" cellspacing="10">
     <thead>
       <tr>
-        <th>Language</th>
-        <th>About Me</th>
+        <th>LANGUAGE</th>
+        <th>ABOUT ME</th>
       </tr>
     </thead>
     <tbody>
@@ -35,6 +35,9 @@ Teşekkür ederim...</td>
           </tr>
     </tbody>
 </table>
+<div>
+        <h2> SKILLS <img src = "https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9" width = 32> </h2>
+    </div>
 
 <!--
 **mseyip/mseyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
