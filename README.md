@@ -35,9 +35,7 @@ Teşekkür ederim...</td>
           </tr>
     </tbody>
 </table>
-<div>
-        <h2> SKILLS <img src = "https://giphy.com/stickers/coding-programmer-ngoding-jdPMeyv9rn0hZHh8n9" width = 32> </h2>
-    </div>
+
 
 <!--
 **mseyip/mseyip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
