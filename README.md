@@ -11,7 +11,7 @@
     <tbody>
         <tr>
             <td><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
-            <td>Hello! I am Mustafa SEYİP. I embarked on my career in 2010 and have been passionately working in the IT field ever since. Between 2010 and 2014, I held various positions in the Department of Information Technologies in the field of Web Technologies.<br>
+            <td>Hello! I am Mustafa SEYİP. I embarked on my career in 2010 and have been passionately working in the IT field ever since. Between 2010 and 2014, I held various positions in the Department of Information Technologies in the field of Web Technologies.<br><br>
 
 I graduated from the Web Design and Coding department between 2018 and 2020. From 2020 onwards, I have taken various software-related courses from different education platforms. Most recently, I completed the Fullstack Java Developer training and internship at Techpro Education, which started in August 2022. Currently, I am shaping my career in the software world as a Java Backend Developer.
 
